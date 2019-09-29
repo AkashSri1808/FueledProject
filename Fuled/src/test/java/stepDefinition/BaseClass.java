@@ -16,6 +16,10 @@ public class BaseClass {
 	    driver.manage().window().maximize();
 	    driver.get("https://www.jabong.com/");
 	}
-}
+		
+	}
+	
+	
+
 
 
